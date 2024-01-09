@@ -1,18 +1,18 @@
-<h1 align="center">Hello, there I'm RAHUL ALAM</h1>
+<h1 align="center">Hello, there I'm SYED FARHAN SR</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
    
    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulalam31&label=Profile%20views&color=0e75b6&style=flat" alt="rahulalam31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedfarhansr&label=Profile%20views&color=0e75b6&style=flat" alt="syedfarhansr" /> </p>
 
-<img src="https://img.shields.io/github/followers/rahulalam31.svg?style=social&label=Follow&maxAge=2592000" />
+<img src="https://img.shields.io/github/followers/syedfarhansr.svg?style=social&label=Follow&maxAge=2592000" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulalam31" alt="rahulalam31" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedfarhansr" alt="syedfarhansr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://facebook.com/mdrahulalam" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
-  <a href="https://instagram.com/da.rahulalam" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-  <a href="mailto:rahulalam31@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://facebook.com/md" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+  <a href="https://instagram.com/fun_haan" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+  <a href="mailto:syedfarhan17861@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 <h3 align="left">Frontend: 
@@ -81,10 +81,10 @@
 </h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulalam31&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="rahulalam31" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfarhansr&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="syedfarhansr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulalam31&show_icons=true&locale=en&theme=cobalt" alt="rahulalam31" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedfarhansr&show_icons=true&locale=en&theme=cobalt" alt="syedfarhansr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulalam31&theme=cobalt" alt="rahulalam31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedfarhansr&theme=cobalt" alt="syedfarhansr" /></p>
 
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulalam31&theme=2077" /></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedfarhansr&theme=2077" /></p>
