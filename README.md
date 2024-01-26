@@ -1,8 +1,6 @@
 <h1 align="center">Hello, there I'm SYED FARHAN SR</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-   
-   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedfarhansr&label=Profile%20views&color=0e75b6&style=flat" alt="syedfarhansr" /> </p>
 
 <img src="https://img.shields.io/github/followers/syedfarhansr.svg?style=social&label=Follow&maxAge=2592000" />
